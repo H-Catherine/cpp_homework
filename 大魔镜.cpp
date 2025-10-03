@@ -8,7 +8,7 @@ int main()
 	{printf("WRONG DATA");}
 	else
 	{
-	("x=");
+	printf("x=");
 	a=n/100;
 	b=(n%100)/10;
 	c=n%10;
